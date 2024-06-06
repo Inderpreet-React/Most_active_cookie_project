@@ -3,7 +3,7 @@ I have used Python script to accomplish the task.
 Dependencies
 •	Python 3.x
 
-Create a file, say 
+Create a file, 
 most_active_cookie.py
 
 
@@ -14,7 +14,7 @@ Testing
 For testing, I have used Python's unit test framework. It includes test cases for:
 •	Extracting cookie data for a given date.
 •	Identifying the most active cookies.
-Create a file, say 
+Create a file, 
 test_most_active_cookie.py:
 
 To run the tests, execute:
